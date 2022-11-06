@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hair Day</title>
+    <link rel="icon" href="logo.png">
+    <link rel="stylesheet" href="hairday.css">
+</head>
+<body>
+    <div class="header">
+        <div class="header-container">
+            <img src="logo.png" width="128px">
+            <div class="nav">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Product</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Product</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="hero">
+        <div class="hero-container">
+            <h1>Hair Day</h1>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, mollitia tempora! Atque officiis dolorum itaque maxime sunt pariatur asperiores soluta molestiae? Reprehenderit praesentium officiis numquam? Ad dignissimos nemo tenetur amet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta blanditiis fugiat placeat architecto, sequi inventore impedit saepe dolor amet aperiam, atque maiores sed iure earum. Eius ut expedita illum exercitationem!</p>
+            <div class="buttons">
+                <button class="button1">Book Now</button>
+                <button class="button2">Learn More</button>
+            </div>
+        </div>
+    </div>
+    <div class="services">
+        <h2>Our Service</h2>
+        <div class="box">
+            <div class="card">
+                <div class="content">
+                    <h3>Men's Haircut</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa officiis error quia consequatur omnis rem deserunt tempore tempora laboriosam nemo facilis corporis assumenda, debitis asperiores distinctio incidunt amet officia natus.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <h3>Nail's Cut</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis a eveniet ratione, delectus dolores porro architecto inventore error consequuntur in similique nostrum harum ut quae fugit, magni veniam quia dolor.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <h3>Body Massage</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt nisi modi maxime beatae suscipit tempore dolorum voluptate dolor, unde tenetur! Sed possimus, nobis voluptatem beatae labore officia enim ipsam itaque.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<footer>
+    <div class="footer container">
+        <div class="brand"><img src="logo3.png" width="100px"></div>
+        <p>Copyright 2022 @ <b> SER STEPHEN JINGCO</b></p>
+    </div>
+</footer>
+</html>
